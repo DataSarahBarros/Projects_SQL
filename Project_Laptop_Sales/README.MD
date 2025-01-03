@@ -1,4 +1,4 @@
-## O que Encarece um Notebook? Uma Análise Detalhada
+## Uma análise detalhada de o'que encarece um Notebook?
 
 ### Visão Geral
 
@@ -26,8 +26,8 @@ Na outra extremidade, a Iball se posiciona como a marca mais acessível, oferece
 Essa diferença pode ser explicada pela necessidade de componentes de maior qualidade e pela maior demanda por dispositivos com DDR4, que oferecem melhor desempenho.
 
 *Participação dos processadores intel core*
-- O processador Core i9 tem o maior percentual de market share, tendo a maior fatia de participaçáo do mercado sugerindo uma alta demanda dado ao alto desempenho do produto. O Core i7 não fica muito para tras sua participaçáo em percentual no mercado indica certa popularidade.
-Os modelos Core i5 e Core i3 sáo opçóes acessiveis que ainda sim forncem um bom desempenho. Differente do Core m3, Dual Core e Hexa Core que tem uma participaçáo menor e menos populares.
+- O processador Core i9 tem o maior percentual de Market Share, tendo a maior fatia de participação do mercado sugerindo uma alta demanda dado ao alto desempenho do produto. O Core i7 não fica muito para trás sua participação em percentual no mercado indica certa popularidade.
+Os modelos Core i5 e Core i3 são opções acessíveis que ainda sim fornecem um bom desempenho. Diferente do Core m3, Dual Core e Hexa Core que tem uma participação menor e menos populares.
 
 *Média de preços por marca de processadores*
 
