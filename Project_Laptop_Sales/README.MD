@@ -30,9 +30,9 @@ Essa diferença pode ser explicada pela necessidade de componentes de maior qual
 Os modelos Core i5 e Core i3 são opções acessíveis que ainda sim fornecem um bom desempenho. Diferente do Core m3, Dual Core e Hexa Core que tem uma participação menor e menos populares.
 
 *Média de preços por marca de processadores*
-
+escrever aqui
 *Total preço dos produtos que possuem ou não touchcreen*
-
+escrever aqui
 
 
 ### Ferramentas e Técnicas Utilizadas
@@ -40,5 +40,5 @@ Os modelos Core i5 e Core i3 são opções acessíveis que ainda sim fornecem um
 - **SQL:** Linguagem utilizada para realizar a análise descritiva e consultas nos dados.
 - **Análise Descritiva:** Análise dos dados que tem como objetivo identificar padrões e tendências.
 
-### Conclusão (rever)
-Este projeto proporciona uma análise detalhada de vários fatores que influenciam os preços dos computadores portáteis. Através das análises realizadas, é possível entender como a marca, tipo de memória, processador e presença de touchscreen afetam os preços. Esses insights são valiosos para consumidores, fabricantes e revendedores na tomada de decisões informadas sobre a compra e venda de laptops.
+### Conclusão 
+escrever aqui
