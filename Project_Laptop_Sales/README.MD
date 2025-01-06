@@ -28,11 +28,11 @@ Essa diferença pode ser explicada pela necessidade de componentes de maior qual
 Os modelos Core i5 e Core i3 são opções acessíveis que ainda sim fornecem um bom desempenho. Diferente do Core m3, Dual Core e Hexa Core que tem uma participação menor e menos populares.
 
 *Média de preços por marca de processadores*
-Além do preço é importante considerar outros fatores ao escolher um processador, como compatibilidade com a placa-mãe, consumo de energia e desempenho. 
+- Além do preço é importante considerar outros fatores ao escolher um processador, como compatibilidade com a placa-mãe, consumo de energia e desempenho. 
 Mas se tratando da precificação, o chip M1 da Apple tem as maiores médias de preço, assegurando a qualidade do produto e reforçando a fama da marca por seus preços elevados. A concorrência entre Intel e AMD beneficia os consumidos já que tem preços mais competitivos e acessíveis dado a qualidade dos produtos.
 
 *Total preço dos produtos que possuem ou não touchscreen*
-É notável que a presença do touchscreen nos produtos acrescenta um custo considerável, por isso é importante entender a demanda do cliente, se suas necessidades vão além de seu orçamento, é interessante levar em conta o uso do touchscreen, caso não haja necessidade dessa funcionalidade e o orçamento esteja arrojado, as opções sem touchscreen é mais viável.
+- É notável que a presença do touchscreen nos produtos acrescenta um custo considerável, por isso é importante entender a demanda do cliente, se suas necessidades vão além de seu orçamento, é interessante levar em conta o uso do touchscreen, caso não haja necessidade dessa funcionalidade e o orçamento esteja arrojado, as opções sem touchscreen é mais viável.
 
 ### Ferramentas e Técnicas Utilizadas
 - **Excel:** É muito importante que o analista de dados critique sua própria análise, por isso usei o Excel para converter o arquivo csv em formato de tabela, e criei uma tabela dinâmica para criticar as análises.
