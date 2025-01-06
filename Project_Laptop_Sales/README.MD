@@ -4,7 +4,7 @@
 
 Já se perguntou por que um notebook pode custar o dobro do outro, mesmo parecendo muito semelhantes? Eu também! Para te ajudar a entender melhor porque isso acontece, analisando diferentes modelos e descobrindo o que realmente influencia o preço de um notebook. A análise foi feita na plataforma Databricks com base nos dados obtidos do Kaggle.
 
-[![](laptopsales.gif)](https://github.com/user-attachments/assets/f3547ef1-88fa-4d64-afc8-0f1955e920a3)
+[![](laptopsales.gif)](https://github.com/user-attachments/assets/3a346b7a-7917-422e-b60f-21f19571291f)
 
 **Link para o projeto:** [databricks](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/1095832313552270/1432661428716512/1323315511525775/latest.html)
 
